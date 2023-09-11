@@ -1,10 +1,11 @@
-Hi everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Jacob Lai.
 =================================================================================================================================
 
 Software Engineer
 -----------------
 
-My name is Jacob Lai. I am a junior studying Computer Science at the University of California, Irvine. 
+I am a junior studying Computer Science at the University of California, Irvine. 
 
 In my free time, I like to
 
