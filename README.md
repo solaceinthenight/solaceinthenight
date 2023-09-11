@@ -1,10 +1,7 @@
 Hi everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
-My name is Jacob Lai.
-=================================================================================================================================
-
-Software Engineer
+Jacob Lai, Software Engineer
 -----------------
 
 I am a junior studying Computer Science at the University of California, Irvine. 
@@ -32,6 +29,7 @@ Find my contact information at the bottom of this page.
 
 I'm always open to new opportunities, collaborations, and interesting conversations. Feel free to reach out to me via:
 
-✉️ Email:[jacoblai12@gmail.com](mailto:jacoblai12@gmail.com)
+✉️ Email: [jacoblai12@gmail.com](mailto:jacoblai12@gmail.com) \
+and LinkedIn: [https://www.linkedin.com/in/jacob-lai000/](https://www.linkedin.com/in/jacob-lai000/)
 
 <p align="left"> <a href="https://www.github.com/solaceinthenight" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/jacob.s.lai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jacob-lai000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
