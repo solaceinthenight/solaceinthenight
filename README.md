@@ -1,10 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jacob Lai
+Hi everyone ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
 Software Engineer
 -----------------
 
-I am a junior studying Computer Science at the University of California, Irvine. I am looking for internship opportunities for Winter, Spring, Summer 2024.
+My name is Jacob Lai. I am a junior studying Computer Science at the University of California, Irvine. 
+
+In my free time, I like to
+
+* 🎹 play instruments (piano, guitar, violin) 🎻
+* 🏸 play sports (badminton, soccer, and many more) ⚽
+* 💻 play video games (Valorant, League of Legends, TFT, Guild Wars 2, etc.) 🎮
+* ✔️ learn new things and try out different foods 🍣
+
+I am currently working on some peronsal projects which will remain unannounced for the time being. I am looking for internship opportunities for Winter, Spring, Summer 2024.
 
 * ✉️  You can contact me at [jacoblai12@gmail.com](mailto:jacoblai12@gmail.com)
 
