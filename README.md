@@ -13,7 +13,7 @@ In my free time, I like to
 * 💻 play video games (Valorant, League of Legends, TFT, Guild Wars 2, Terraria, etc.) 🎮
 * ✔️ learn new things and try out different foods 🍣
 
-I am currently working on some peronsal projects which will remain unannounced for the time being. 
+I am currently working on some personal projects which will remain unannounced for the time being. 
 
 Find my contact information at the bottom of this page.
 
