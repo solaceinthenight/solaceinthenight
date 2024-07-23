@@ -4,7 +4,7 @@ Hi everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 Jacob Lai, Software Engineer
 -----------------
 
-I am a junior studying Computer Science at the University of California, Irvine. 
+I am a senior studying Computer Science at the University of California, Irvine. 
 
 In my free time, I like to
 
