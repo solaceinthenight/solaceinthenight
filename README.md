@@ -1,10 +1,12 @@
-Hi everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=================================================================================================================================
+\[updated 11/05/2025\]
+
 
 Jacob Lai, Software Engineer
 -----------------
 
-I am a senior studying Computer Science at the University of California, Irvine. 
+I'm currently studying at a 2-year Bible school program!
+
+### About Me
 
 In my free time, I like to
 
@@ -13,9 +15,9 @@ In my free time, I like to
 * 💻 play video games (Valorant, League of Legends, TFT, Guild Wars 2, Terraria, etc.) 🎮
 * ✔️ learn new things and try out different foods 🍣
 
-I am currently working on some personal projects which will remain unannounced for the time being. 
-
-Find my contact information at the bottom of this page.
+### Education
+University of California, Irvine
+- Computer Science, B.S. (Fall 2024)
 
 ### Skills
 
@@ -30,6 +32,6 @@ Find my contact information at the bottom of this page.
 I'm always open to new opportunities, collaborations, and interesting conversations. Feel free to reach out to me via:
 
 ✉️ Email: [jacoblai12@gmail.com](mailto:jacoblai12@gmail.com) \
-and LinkedIn: [https://www.linkedin.com/in/jacob-lai000/](https://www.linkedin.com/in/jacob-lai000/)
+LinkedIn: [https://www.linkedin.com/in/jacob-lai000/](https://www.linkedin.com/in/jacob-lai000/)
 
 <p align="left"> <a href="https://www.github.com/solaceinthenight" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jacob-lai000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
